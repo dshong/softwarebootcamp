@@ -4,3 +4,6 @@ Here's a copy of paper.txt for your github repository.
 
 Enjoy!
 David.
+
+Changing paper.txt in my directory
+
